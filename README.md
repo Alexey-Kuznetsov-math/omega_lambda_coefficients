@@ -30,8 +30,8 @@ lambda_{2,1}=5.44985588097650750556420472059131596464183711e-1
 The backslash "\\" is just the continuation line symbol (see MPFUN2020 documentation https://www.davidhbailey.com/dhbpapers/mpfun2020.pdf). 
 For example, the first number in the file lambda_15.txt is written as
 
-1.139422564909365885216557822615735135693580597482803103670775925826086082430798\\
- 85995938659e-1       
+1.139422564909365885216557822615735135693580597482803103670775925826086082430798\\     
+85995938659e-1       
 
 and should be interpreted as 
 
