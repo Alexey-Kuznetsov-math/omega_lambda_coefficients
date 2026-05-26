@@ -31,7 +31,7 @@ The backslash "\\" is just the continuation line symbol (see MPFUN2020 documenta
 For example, the first number in the file lambda_15.txt is written as
 
 1.139422564909365885216557822615735135693580597482803103670775925826086082430798\\
-85995938659e-1       
+ 85995938659e-1       
 
 and should be interpreted as 
 
