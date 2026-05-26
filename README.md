@@ -22,10 +22,10 @@ Here we denoted by "i" the imaginary unit.
   
 The four numbers in the file lambda_2.txt produce two complex numbers
 
-lambda_{2,1}=2.69164582091688009706339137658697227553732181e-1
-        &emsp; &emsp; &emsp; -i×2.12584884229293853002871808361074042130916306e-1               
-lambda_{2,1}=5.44985588097650750556420472059131596464183711e-1
-        &emsp; &emsp; &emsp; -i×4.82555155741448361900427433254854630827531168e-1  
+lambda_{2,1}=2.69164582091688009706339137658697227553732181e-1     
+        &emsp; &emsp; &emsp; -i×2.12584884229293853002871808361074042130916306e-1                 
+lambda_{2,1}=5.44985588097650750556420472059131596464183711e-1    
+        &emsp; &emsp; &emsp; -i×4.82555155741448361900427433254854630827531168e-1    
 
 The backslash "\\" is just the continuation line symbol (see MPFUN2020 documentation https://www.davidhbailey.com/dhbpapers/mpfun2020.pdf). 
 For example, the first number in the file lambda_15.txt is written as
